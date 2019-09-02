@@ -1,0 +1,19 @@
+﻿
+#calculator *{
+    font-size:18pt;
+}
+table{
+    border:3px solid silver;
+    border-spacing: 3px;
+    border-radius:5px;
+}
+
+button{
+    width:50px;
+    border-radius: 10px;
+    text-align:center;
+}
+input{
+    border:2px solid silver;
+    border-radius:5px;
+}
